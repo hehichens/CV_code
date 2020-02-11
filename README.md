@@ -1,1 +1,1 @@
-# CV_code
+# learn computer vision with python and opencv
